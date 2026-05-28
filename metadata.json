@@ -1,0 +1,6 @@
+{
+  "name": "Relief India Construction",
+  "description": "Official application for Relief India Construction Pvt. Ltd., presenting high-quality plans, interior/exterior walkthroughs, material supply tracking, an enquiry builder, digital payment flows, and an internal admin management panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
